@@ -6,6 +6,10 @@
 1. hello_react
 1. rewrite game in react
 
+### Problems (Optional)
+[Codewars](http://codewars.com)\
+[Advent of Code](https://adventofcode.com/)
+
 ### Project Time!
 [Project Ideas!](https://github.com/florinpop17/app-ideas)\
 [Projects on FreeCodeCamp](https://www.freecodecamp.org/)
