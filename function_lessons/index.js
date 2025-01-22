@@ -1,7 +1,7 @@
 // To print in JS, use console.log()
-console.log('Hello, World!') // prints "Hello, World"
+console.log('Hello, World!'); // prints "Hello, World"
 
-// As described in hello, browser, to define a function, you can use the 'function' keyword.
+// As described in "hello, browser", to define a function, you can use the 'function' keyword.
 // Notice the camelCase standard in JS.  In Python, snake_case is used, but in different langauges, different standards are applied.
 // Recall the make_sparkly function from before.
 function makeSparkly(text) {
@@ -25,7 +25,7 @@ const make_sparkly5 = text => {
 
 // To make a function this way with no arguments, the following syntax is used.
 // Note the empty parens () for 0-argument functions defined in this way.
-const greet = () => print('Hi!');
+const greet = () => console.log('Hi!');
 
 // There are methods in JS lists that are used frequently that take other functions as arguments.
 // This has the reputation of breaking brains, so think about that carefully before we procede.
